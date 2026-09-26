@@ -1,5 +1,5 @@
 tmp/ 
 *.DS_Store
 *_old 
-*.bd
+**Trumbs.bd
 *_backup
